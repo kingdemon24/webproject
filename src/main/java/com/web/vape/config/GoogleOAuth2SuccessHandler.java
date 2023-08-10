@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class GoogleOAuth2SuccessHandler implements AuthenticationSuccessHandler {
+public class GoogleOAuth2SuccessHandler implements GoogleOAuthSuccessHandler {
     @Autowired
     RoleRepository roleRepository;
     @Autowired
