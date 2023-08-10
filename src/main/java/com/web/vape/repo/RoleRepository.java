@@ -1,6 +1,6 @@
-package com.web.major.repo;
+package com.web.vape.repo;
 
-import com.web.major.entity.Role;
+import com.web.vape.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleRepository extends JpaRepository<Role, Integer> {

@@ -1,6 +1,6 @@
-package com.web.major.config;
+package com.web.vape.config;
 
-import com.web.major.service.CustomUserDetailService;
+import com.web.vape.service.CustomUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

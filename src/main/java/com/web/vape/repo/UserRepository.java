@@ -1,6 +1,6 @@
-package com.web.major.repo;
+package com.web.vape.repo;
 
-import com.web.major.entity.User;
+import com.web.vape.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

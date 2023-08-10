@@ -1,10 +1,10 @@
-package com.web.major.controller;
+package com.web.vape.controller;
 
-import com.web.major.pojo.GlobalData;
-import com.web.major.entity.Role;
-import com.web.major.entity.User;
-import com.web.major.repo.RoleRepository;
-import com.web.major.repo.UserRepository;
+import com.web.vape.pojo.GlobalData;
+import com.web.vape.entity.Role;
+import com.web.vape.entity.User;
+import com.web.vape.repo.RoleRepository;
+import com.web.vape.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Controller;
@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import javax.persistence.ManyToMany;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;

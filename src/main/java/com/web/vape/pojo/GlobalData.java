@@ -1,6 +1,6 @@
-package com.web.major.pojo;
+package com.web.vape.pojo;
 
-import com.web.major.entity.Product;
+import com.web.vape.entity.Product;
 
 import java.util.ArrayList;
 import java.util.List;

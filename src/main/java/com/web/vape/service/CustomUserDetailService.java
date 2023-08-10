@@ -1,8 +1,8 @@
-package com.web.major.service;
+package com.web.vape.service;
 
-import com.web.major.entity.CustomUserDetail;
-import com.web.major.entity.User;
-import com.web.major.repo.UserRepository;
+import com.web.vape.entity.CustomUserDetail;
+import com.web.vape.entity.User;
+import com.web.vape.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

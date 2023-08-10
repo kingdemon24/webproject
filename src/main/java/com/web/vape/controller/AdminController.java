@@ -1,10 +1,10 @@
-package com.web.major.controller;
+package com.web.vape.controller;
 
-import com.web.major.security.ProductDTO;
-import com.web.major.entity.Category;
-import com.web.major.entity.Product;
-import com.web.major.service.CategoryService;
-import com.web.major.service.ProductService;
+import com.web.vape.security.ProductDTO;
+import com.web.vape.entity.Category;
+import com.web.vape.entity.Product;
+import com.web.vape.service.CategoryService;
+import com.web.vape.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

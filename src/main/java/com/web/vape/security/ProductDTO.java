@@ -1,10 +1,6 @@
-package com.web.major.security;
+package com.web.vape.security;
 
 import lombok.Data;
-
-import javax.persistence.FetchType;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
 
 @Data
 public class ProductDTO {

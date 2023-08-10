@@ -1,7 +1,7 @@
-package com.web.major.service;
+package com.web.vape.service;
 
-import com.web.major.entity.Category;
-import com.web.major.repo.CategoryRepository;
+import com.web.vape.entity.Category;
+import com.web.vape.repo.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

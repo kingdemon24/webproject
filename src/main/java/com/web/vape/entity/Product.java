@@ -1,4 +1,4 @@
-package com.web.major.entity;
+package com.web.vape.entity;
 
 import lombok.Data;
 

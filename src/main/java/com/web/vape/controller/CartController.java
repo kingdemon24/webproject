@@ -1,8 +1,8 @@
-package com.web.major.controller;
+package com.web.vape.controller;
 
-import com.web.major.pojo.GlobalData;
-import com.web.major.entity.Product;
-import com.web.major.service.ProductService;
+import com.web.vape.pojo.GlobalData;
+import com.web.vape.entity.Product;
+import com.web.vape.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
